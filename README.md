@@ -6,8 +6,8 @@
 
 
 ### Tourial
-
-##### Use componet ViewPager, CardView, Modern Design
+#### Use componet ViewPager, CardView, Modern Design
+#### Open by Android Studio 
 
 
 # UI
@@ -17,4 +17,6 @@
 
 ### Resource
 
-##### https://www.youtube.com/watch?v=UsXv6VRqZKs
+#### - https://www.youtube.com/watch?v=UsXv6VRqZKs
+
+
